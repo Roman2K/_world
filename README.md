@@ -4,12 +4,7 @@ A simple, autonomous ecosystem with living creatures that copulate, fight and di
 
 ## Usage
 
-Fetch the code:
-
-    $ git clone git://github.com/Roman2K/world.git
-
-Run it:
-
+    $ git clone <repo> world
     $ cd world
     $ ruby lib/world.rb
 
